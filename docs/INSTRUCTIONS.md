@@ -1,5 +1,5 @@
 
-# Your Tribe - Responsive Design
+# Responsive Design
 
 Schets en maak een responsive design voor je squadpage.
 
